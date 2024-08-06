@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "qxmall-cli": "./bin/cli.js"
+    "qxmall-cli": "bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/weibo-3880270936/qxmall-cli.git"
+    "url": "git+https://github.com/qingxiang1/qxmall-cli.git"
   },
   "keywords": [
     "CLI"
