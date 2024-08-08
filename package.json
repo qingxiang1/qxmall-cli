@@ -2,7 +2,7 @@
   "name": "qxmall-cli",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "bin/cli.js",
   "bin": {
     "qxmall-cli": "bin/cli.js"
   },
